@@ -1,0 +1,1 @@
+self.addEventListener('push',e=>{e.waitUntil(self.registration.showNotification('Rayz Proforma',{body:'A payment request needs review.',data:{url:'/admin'}}))});self.addEventListener('notificationclick',e=>{e.notification.close();e.waitUntil(clients.openWindow('/admin'))});

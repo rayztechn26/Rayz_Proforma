@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+dist/
+artifacts/
+/android/
+/ios/
+.env
+.env.local
+*.apk
+*.aab

@@ -1,0 +1,8 @@
+# Protect the source folder when WAMP's default localhost site points at www.
+# The application virtual host serves only public/ at its own URL.
+Options -Indexes
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_URI} ^/backend(?:/|$) [NC]
+    RewriteRule ^ - [F,L]
+</IfModule>

@@ -1,0 +1,3 @@
+<?php
+// Replace DA_USERNAME with your actual DirectAdmin account name.
+return '/home/DA_USERNAME/proforma-app';

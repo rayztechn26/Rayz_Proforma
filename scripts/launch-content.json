@@ -1,0 +1,346 @@
+{
+  "brand": "Rayz Proforma",
+  "company": "Rayz Technology plc",
+  "version": "2.0.9",
+  "date": "2026-10-27",
+  "baseUrl": "https://proforma.rayztechnology.com/download/",
+  "facebook": "https://web.facebook.com/profile.php?id=61590520105267",
+  "telegram": "https://t.me/+tn7G1jeksl0yODJk",
+  "whatsapp": "https://whatsapp.com/channel/0029VbDBaPHDuMRh9vMeHB0u",
+  "en": {
+    "title": "Professional proformas from your Android phone",
+    "intro": "Prepare, save and share proforma invoices in English or Amharic. After company activation, create documents offline.",
+    "download": "Download Android APK",
+    "guide": "Download user guide",
+    "sample": "View sample proforma",
+    "featuresTitle": "Built for everyday quotations",
+    "features": [
+      "English and Amharic interface and PDF labels",
+      "Customer records and a reusable item catalogue",
+      "Common units, VAT and amounts with two decimal places",
+      "Grand totals in digits and words",
+      "Your company logo and optional PNG stamp",
+      "Optional terms you write or leave blank",
+      "PDF export, sharing and printing",
+      "Business-data backup and restore"
+    ],
+    "priceTitle": "One-time company activation",
+    "price": "ETB 1,000 per company",
+    "priceNote": "Activation is bound to a device. A second company needs a separate activation. Contact support before changing phones or reinstalling. Internet is required for account access, payment submission and activation.",
+    "stepsTitle": "How to get started",
+    "steps": [
+      "Download the APK from this page and install it on your Android phone. Allow installation from your browser only when Android requests it.",
+      "Open the app. Choose EN or አማ and register your account using your phone number and a password of at least six digits.",
+      "Check the payment instructions shown inside the app. Pay ETB 1,000 through Telebirr to 0911099246. Confirm that the recipient is Thomas Abate before paying.",
+      "Return to the app. Enter the payer's phone number and transaction reference / FT number. You may attach a JPG or PNG receipt. Submit for verification.",
+      "After approval, refresh your status and complete your company profile with its legal name, TIN, logo and VAT confirmation.",
+      "Once activation succeeds, add customers and items, prepare proformas and export PDFs. Keep regular business-data backups."
+    ],
+    "safety": "Payment approval requires verification. Do not pay again because a request is pending or a connection failed; refresh and contact support. Approval time varies. Confirm the current fee in the app before paying.",
+    "screensTitle": "See the app",
+    "screenLabels": [
+      "Your workspace",
+      "Company profile",
+      "Document preview"
+    ],
+    "demoNote": "Screenshots show the actual app components in a browser preview with fictional sample records. Android appearance may vary. Samples are demonstrations, not real offers or tax invoices.",
+    "supportTitle": "Help and official updates",
+    "support": "For installation, payment or activation assistance, call 0911099246 or 0947833314. Never share your password or authenticator code. Send payment details privately, not in public comments or channels.",
+    "channels": [
+      "Facebook page",
+      "Telegram channel",
+      "WhatsApp updates channel"
+    ],
+    "channelNote": "The WhatsApp link opens a broadcast channel for updates, not a private support conversation.",
+    "backup": "Your business records are stored on your phone. They are not automatically synchronized to the server. Export a backup to a safe location before updating or changing phones. Restoring a backup does not activate another device.",
+    "privacy": "Privacy notice",
+    "faqTitle": "Before you install",
+    "faq": [
+      [
+        "Does it work on iPhone?",
+        "This release is for Android only. The APK does not install on iPhone."
+      ],
+      [
+        "Can I use it without internet?",
+        "Yes, after successful activation, proforma preparation and PDF generation work offline. Online account, payment and recovery actions still need a connection."
+      ],
+      [
+        "Will updates erase my records?",
+        "Install a compatible update over the existing app. Do not uninstall first. Export a backup before updating."
+      ],
+      [
+        "Is this a tax invoice app?",
+        "It prepares proforma invoices. A proforma is not a tax invoice. Confirm the appropriate VAT rate and document requirements for your business."
+      ]
+    ],
+    "footer": "Developed by Rayz Technology plc · Rayz Proforma · Android release 2.0.9",
+    "guideTitle": "Rayz Proforma user guide",
+    "guideIntro": "A practical guide to installation, activation and everyday proforma preparation. Follow the numbered steps and keep a backup of your business records.",
+    "guidePages": [
+      {
+        "title": "Install and create your account",
+        "image": "register",
+        "steps": [
+          "Download the signed APK only from the official download page. This release is for Android, not iPhone.",
+          "Open the downloaded file. If prompted, allow installation from that browser or file app. Keep Play Protect enabled. You can remove the installation permission afterwards.",
+          "Open Rayz Proforma and select EN or አማ. Choose New account? Register. Enter your own phone number, including country code, and a numeric password of at least six digits.",
+          "Choose a longer, hard-to-guess password. Avoid 123456, repeated digits and your phone number. Phone verification by SMS is not enabled.",
+          "If you already have an account, sign in instead of creating another. Before updating an existing installation, export a backup and install over the existing app without uninstalling."
+        ],
+        "note": "Do not share your password. Support does not need it to verify a payment."
+      },
+      {
+        "title": "Pay and request activation",
+        "image": "payment-submit",
+        "steps": [
+          "Sign in and read the current fee, recipient and instructions inside the app. The launch offer is ETB 1,000 per company.",
+          "In Telebirr, pay 0911099246 and confirm that the displayed recipient is Thomas Abate before completing payment.",
+          "Return to the app and scroll to Submit payment for a company. Enter the payer's phone number and the exact transaction reference / FT number.",
+          "You may attach a genuine JPG or PNG receipt up to 5 MB. A screenshot alone does not prove payment. Submit the details for verification.",
+          "Use Refresh status to check the decision. If rejected, read the reason and correct the submission. If approved, continue to company registration. Approval time varies; call support if needed."
+        ],
+        "note": "A pending request or service error is not a reason to pay again. Keep your transaction reference and contact support."
+      },
+      {
+        "title": "Complete your company profile",
+        "image": "company",
+        "steps": [
+          "After approval, refresh your status and open company registration. Enter the correct legal business name and TIN.",
+          "Select your company logo as JPG or PNG. The activation profile requires a logo.",
+          "Optionally attach your organization's PNG stamp. A transparent background works best. It appears near the bottom of new proformas.",
+          "Scroll down to review the currency, VAT rate, validity, numbering prefix and optional contact or bank details. Confirm the VAT rate appropriate to your business.",
+          "Write optional payment, delivery and Terms & Conditions text, or leave optional terms blank. Save the profile to finish device-bound activation."
+        ],
+        "note": "If activation fails, keep your entered details and retry. Do not buy another activation for the same failed request. Legal identity changes and device transfers may require administrator approval."
+      },
+      {
+        "title": "Create customers and a proforma",
+        "image": "edit-items",
+        "steps": [
+          "From your workspace, open Customers and add the customer's name and any optional TIN or contact details.",
+          "Add frequently quoted products to Catalogue, including descriptions, units and prices. You can also type items while composing a document.",
+          "Choose Create proforma. Select the customer, review dates and currency, then add line descriptions, quantities and unit prices.",
+          "Select common units such as pcs, c/n, m, m², kg or g. Review VAT and the calculated totals. Monetary amounts display with grouping and two decimal places.",
+          "Scroll to the optional notes and terms. Edit or clear them for this document. Save the draft and review it before issuing."
+        ],
+        "note": "VAT is a configurable input. The app's initial value is not tax advice. Customer records, items and documents stay on this phone unless you export them."
+      },
+      {
+        "title": "Issue and share your PDF",
+        "image": "preview-actions",
+        "steps": [
+          "Open the saved draft in Document preview. Check the company, customer, line items, dates, currency, totals and any terms.",
+          "Choose EN or አማ before generating the PDF. Labels and totals in words follow that language; text you entered is not automatically translated.",
+          "Choose Issue proforma when ready. A final number is allocated and the issued document becomes read-only.",
+          "Use PDF preview, Export PDF, Share PDF or Print PDF. In the Android system sheet, choose a destination, messaging app or printer.",
+          "To reuse an issued document, choose Duplicate as a new draft. Correct the new draft rather than trying to overwrite issued history."
+        ],
+        "note": "The PDF includes a logo, an optional stamp and only the terms you supplied. It is a proforma, not a tax invoice. The sample PDFs in this pack use fictional data."
+      },
+      {
+        "title": "Back up and restore business data",
+        "image": "settings",
+        "steps": [
+          "Open Settings & backup and choose the business-data export action.",
+          "Save the ZIP in a safe location outside the app, such as storage you control. Check that the file exists and keep more than one recent copy.",
+          "Export a fresh backup before installing updates, replacing a phone, clearing app data or uninstalling.",
+          "To restore, select the backup ZIP and follow the prompts. Restore replaces ALL current local data, so export a fresh backup first. Use a Rayz Proforma backup, not an arbitrary ZIP file.",
+          "A backup preserves business records and supported images, including the optional stamp. It does not transfer a licence or activate another device. Contact support for device recovery or transfer."
+        ],
+        "note": "There is no automatic cloud synchronization of your invoices. Protect backup files because they contain business and customer information."
+      },
+      {
+        "title": "Change your account password",
+        "image": "password",
+        "steps": [
+          "Connect to the internet, open Activation / account and sign in if needed.",
+          "Choose Change password. Enter your current password.",
+          "Enter a new numeric password of at least six digits, then enter it again in Confirm new password. Longer numeric passwords are supported, up to 72 digits.",
+          "Use Show or Hide to check your typing privately. Masking dots hide the characters; the app never displays the stored password hash.",
+          "Choose Update password. On success, other account sessions are signed out while the current session remains. If you forgot the current password, contact support; do not send your password in a message."
+        ],
+        "note": "Use a unique, hard-to-guess password. If the service is unavailable, retry when connected. An account password change is an online action."
+      },
+      {
+        "title": "Offline work and getting help",
+        "image": "home",
+        "steps": [
+          "After successful activation, create and save proformas and generate PDFs offline on the activated phone.",
+          "A failed status refresh does not by itself remove a valid local licence. Account access, payment checks, first activation and licence recovery need internet.",
+          "If a service error appears during registration, keep the entered company details, retry, and avoid paying again. If it persists, record the technical request reference.",
+          "For support, call 0911099246 or 0947833314. Share the app version, Android version, action that failed, time of failure and a redacted screenshot.",
+          "Follow the official Facebook, Telegram and WhatsApp channels linked from the download page. Never post passwords, receipt details, private keys or customer records publicly."
+        ],
+        "note": "Only authorized support should arrange device transfer. Keep the old app and its data until your backup and recovery plan are confirmed."
+      }
+    ]
+  },
+  "am": {
+    "title": "በአንድሮይድ ስልክዎ ሙያዊ ፕሮፎርማ ያዘጋጁ",
+    "intro": "በአማርኛ ወይም በእንግሊዝኛ ፕሮፎርማ ያዘጋጁ፣ ያስቀምጡ እና ያጋሩ። የድርጅትዎ ማግበር ከተጠናቀቀ በኋላ ያለ ኢንተርኔት መሥራት ይችላሉ።",
+    "download": "የአንድሮይድ APK ያውርዱ",
+    "guide": "የተጠቃሚ መመሪያ ያውርዱ",
+    "sample": "የፕሮፎርማ ናሙና ይመልከቱ",
+    "featuresTitle": "ለዕለታዊ የዋጋ አቅርቦትዎ",
+    "features": [
+      "የአማርኛ እና የእንግሊዝኛ ገጽታ እና የPDF መለያዎች",
+      "የደንበኞች መዝገብ እና የዕቃዎች ካታሎግ",
+      "የተለመዱ መለኪያዎች፣ ቫት እና ሁለት የአስርዮሽ ቦታ ያላቸው መጠኖች",
+      "ጠቅላላ ድምር በቁጥር እና በፊደል",
+      "የድርጅትዎ አርማ እና አማራጭ የPNG ማህተም",
+      "የራስዎን ውሎች መጻፍ ወይም ባዶ መተው",
+      "PDF ማውጣት፣ ማጋራት እና ማተም",
+      "የንግድ መረጃ ምትኬ ማውጣት እና መመለስ"
+    ],
+    "priceTitle": "የአንድ ጊዜ የድርጅት ማግበሪያ",
+    "price": "ለእያንዳንዱ ድርጅት 1,000 ብር",
+    "priceNote": "ማግበሩ ከመሣሪያው ጋር የተያያዘ ነው። ሁለተኛ ድርጅት የተለየ ማግበሪያ ይፈልጋል። ስልክ ከመቀየርዎ ወይም መተግበሪያውን እንደገና ከመጫንዎ በፊት ድጋፍ ያግኙ። ለመለያ፣ ለክፍያ ማስገባት እና ለማግበር ኢንተርኔት ያስፈልጋል።",
+    "stepsTitle": "እንዴት ይጀምሩ",
+    "steps": [
+      "APKውን ከዚህ ገጽ ያውርዱና በአንድሮይድ ስልክዎ ላይ ይጫኑ። አንድሮይድ ሲጠይቅ ብቻ ከአሳሹ ለመጫን ፈቃድ ይስጡ።",
+      "መተግበሪያውን ይክፈቱ። EN ወይም አማ ይምረጡ። በስልክ ቁጥርዎ እና ቢያንስ ስድስት አሃዝ ባለው የይለፍ ቃል ይመዝገቡ።",
+      "በመተግበሪያው ውስጥ ያለውን የክፍያ መመሪያ ያንብቡ። በቴሌብር 1,000 ብር ወደ 0911099246 ይክፈሉ። ከመክፈልዎ በፊት የተቀባዩ ስም Thomas Abate መሆኑን ያረጋግጡ።",
+      "ወደ መተግበሪያው ይመለሱ። የከፋዩን ስልክ እና የግብይት ማጣቀሻ / FT ቁጥር ያስገቡ። የJPG ወይም PNG ደረሰኝ ማያያዝ ይችላሉ። ለማረጋገጥ ይላኩ።",
+      "ክፍያው ከጸደቀ በኋላ ሁኔታዎን ያድሱ። ህጋዊ ስም፣ TIN፣ አርማ እና የቫት ማረጋገጫን ጨምሮ የድርጅት መረጃዎን ያጠናቅቁ።",
+      "ማግበሩ ሲሳካ ደንበኞችን እና ዕቃዎችን ይጨምሩ፣ ፕሮፎርማ ያዘጋጁ እና PDF ያውጡ። የመረጃ ምትኬ በየጊዜው ያውጡ።"
+    ],
+    "safety": "ክፍያ ከመጽደቁ በፊት ማረጋገጥ ያስፈልጋል። ጥያቄዎ በመጠባበቅ ላይ ስለሆነ ወይም ግንኙነት ስለተቋረጠ እንደገና አይክፈሉ። ሁኔታዎን ያድሱና ድጋፍ ያግኙ። የማጽደቅ ጊዜ ይለያያል። ከመክፈልዎ በፊት ወቅታዊውን ዋጋ በመተግበሪያው ያረጋግጡ።",
+    "screensTitle": "መተግበሪያውን ይመልከቱ",
+    "screenLabels": [
+      "የሥራ ቦታዎ",
+      "የድርጅት መረጃ",
+      "የሰነድ ቅድመ እይታ"
+    ],
+    "demoNote": "ማሳያዎቹ የመተግበሪያውን እውነተኛ ክፍሎች በአሳሽ ቅድመ እይታ ከልቦለድ መረጃ ጋር ያሳያሉ። በአንድሮይድ ላይ ገጽታው ትንሽ ሊለያይ ይችላል። ናሙናዎቹ እውነተኛ የዋጋ አቅርቦት ወይም የታክስ ደረሰኝ አይደሉም።",
+    "supportTitle": "ድጋፍ እና ይፋዊ ማሳወቂያዎች",
+    "support": "ለመጫን፣ ለክፍያ ወይም ለማግበር ድጋፍ በ0911099246 ወይም 0947833314 ይደውሉ። የይለፍ ቃልዎን ወይም የአረጋጋጭ ኮድዎን አያጋሩ። የክፍያ መረጃን በግል ይላኩ፤ በሕዝብ አስተያየት ወይም ቻናል ላይ አይለጥፉ።",
+    "channels": [
+      "የፌስቡክ ገጽ",
+      "የቴሌግራም ቻናል",
+      "የዋትስአፕ ማሳወቂያ ቻናል"
+    ],
+    "channelNote": "የዋትስአፕ አገናኙ ለማሳወቂያ ቻናል ነው፤ የግል ድጋፍ ውይይት አይደለም።",
+    "backup": "የንግድ መዝገቦችዎ በስልክዎ ላይ ይቀመጣሉ። በራስ ሰር ከአገልጋዩ ጋር አይመሳሰሉም። ከማዘመንዎ ወይም ስልክ ከመቀየርዎ በፊት ምትኬ ያውጡና በደህና ያስቀምጡ። ምትኬ መመለስ ሌላ መሣሪያ አያገብርም።",
+    "privacy": "የግላዊነት ማሳወቂያ",
+    "faqTitle": "ከመጫንዎ በፊት",
+    "faq": [
+      [
+        "በአይፎን ይሠራል?",
+        "ይህ ስሪት ለአንድሮይድ ብቻ ነው። APKው በአይፎን ላይ አይጫንም።"
+      ],
+      [
+        "ያለ ኢንተርኔት መጠቀም እችላለሁ?",
+        "አዎ። ማግበሩ ከተሳካ በኋላ ፕሮፎርማ ማዘጋጀት እና PDF ማውጣት ያለ ኢንተርኔት ይሠራል። የመለያ፣ ክፍያ እና መመለስ ተግባሮች ግን ግንኙነት ይፈልጋሉ።"
+      ],
+      [
+        "ማዘመን መዝገቦቼን ያጠፋል?",
+        "ተስማሚውን አዲስ ስሪት ባለው መተግበሪያ ላይ ይጫኑ። መጀመሪያ አያራግፉት። ከማዘመንዎ በፊት ምትኬ ያውጡ።"
+      ],
+      [
+        "የታክስ ደረሰኝ ያዘጋጃል?",
+        "መተግበሪያው ፕሮፎርማ ያዘጋጃል። ፕሮፎርማ የታክስ ደረሰኝ አይደለም። ለንግድዎ ተገቢውን የቫት መጠን እና የሰነድ መስፈርቶች ያረጋግጡ።"
+      ]
+    ],
+    "footer": "በRayz Technology plc የተዘጋጀ · Rayz Proforma · የአንድሮይድ ስሪት 2.0.9",
+    "guideTitle": "የRayz Proforma ተጠቃሚ መመሪያ",
+    "guideIntro": "ለመጫን፣ ለማግበር እና ለዕለታዊ የፕሮፎርማ ዝግጅት ተግባራዊ መመሪያ። ደረጃዎቹን ይከተሉ እና የንግድ መረጃዎን ምትኬ ያስቀምጡ።",
+    "guidePages": [
+      {
+        "title": "ይጫኑ እና መለያ ይፍጠሩ",
+        "image": "register",
+        "steps": [
+          "የተፈረመውን APK ከይፋዊው ማውረጃ ገጽ ብቻ ያውርዱ። ይህ ስሪት ለአንድሮይድ ነው፤ ለአይፎን አይደለም።",
+          "ያወረዱትን ፋይል ይክፈቱ። ሲጠየቁ ከአሳሹ ወይም ከፋይል መክፈቻው ለመጫን ፈቃድ ይስጡ። Play Protectን አያጥፉ። ከተጫነ በኋላ ይህን ፈቃድ ማስወገድ ይችላሉ።",
+          "Rayz Proformaን ይክፈቱ። EN ወይም አማ ይምረጡ። አዲስ መለያ ለመፍጠር ይመዝገቡ። የአገር ኮድ ያለውን የራስዎን ስልክ እና ቢያንስ ስድስት አሃዝ ያለውን የይለፍ ቃል ያስገቡ።",
+          "ረዘም ያለና ለመገመት አስቸጋሪ የይለፍ ቃል ይምረጡ። 123456፣ የተደጋገሙ ቁጥሮች ወይም ስልክዎን አይጠቀሙ። የSMS ማረጋገጫ አልተነቃም።",
+          "መለያ ካለዎት አዲስ ከመፍጠር ይልቅ ይግቡ። ለማዘመን ምትኬ ያውጡ፤ የቀድሞውን ሳያራግፉ አዲሱን በላዩ ላይ ይጫኑ።"
+        ],
+        "note": "የይለፍ ቃልዎን አያጋሩ። ክፍያ ለማረጋገጥ ድጋፍ ሰጪው የይለፍ ቃልዎን አይፈልግም።"
+      },
+      {
+        "title": "ይክፈሉ እና ማግበር ይጠይቁ",
+        "image": "payment-submit",
+        "steps": [
+          "ይግቡና በመተግበሪያው ያለውን ወቅታዊ ክፍያ፣ ተቀባይ እና መመሪያ ያንብቡ። የመነሻ ዋጋው ለእያንዳንዱ ድርጅት 1,000 ብር ነው።",
+          "በቴሌብር ወደ 0911099246 ይክፈሉ። ከማጠናቀቅዎ በፊት የተቀባዩ ስም Thomas Abate መሆኑን ያረጋግጡ።",
+          "ወደ መተግበሪያው ይመለሱና ወደ ክፍያ ማስገቢያው ይውረዱ። የከፋዩን ስልክ እና ትክክለኛውን የግብይት ማጣቀሻ / FT ቁጥር ያስገቡ።",
+          "እስከ 5 MB የሆነ እውነተኛ JPG ወይም PNG ደረሰኝ ማያያዝ ይችላሉ። ምስል ብቻ ክፍያን አያረጋግጥም። መረጃውን ለማረጋገጥ ይላኩ።",
+          "ውሳኔውን ለማየት ሁኔታዎን ያድሱ። ካልጸደቀ ምክንያቱን ያንብቡና ያስተካክሉ። ሲጸድቅ ወደ ድርጅት ምዝገባ ይቀጥሉ። የማጽደቅ ጊዜ ይለያያል።"
+        ],
+        "note": "ጥያቄዎ በመጠባበቅ ላይ መሆኑ ወይም የአገልግሎት ስህተት እንደገና ለመክፈል ምክንያት አይደለም። የግብይት ማጣቀሻዎን ያስቀምጡና ድጋፍ ያግኙ።"
+      },
+      {
+        "title": "የድርጅትዎን መረጃ ያጠናቅቁ",
+        "image": "company",
+        "steps": [
+          "ክፍያው ከጸደቀ በኋላ ሁኔታዎን ያድሱና የድርጅት ምዝገባ ይክፈቱ። ትክክለኛውን ህጋዊ የንግድ ስም እና TIN ያስገቡ።",
+          "የድርጅትዎን አርማ በJPG ወይም PNG ይምረጡ። ለማግበሪያ መረጃው አርማ ያስፈልጋል።",
+          "ከፈለጉ የድርጅትዎን PNG ማህተም ያያይዙ። ግልጽ ጀርባ ያለው ይመረጣል። በአዲስ ፕሮፎርማዎች የታችኛው ክፍል ይታያል።",
+          "ወደ ታች ይውረዱ። ምንዛሬ፣ ቫት፣ የሚቆይበት ጊዜ፣ የቁጥር ቅድመ ቅጥያ እና አማራጭ የእውቂያ ወይም የባንክ መረጃን ያረጋግጡ። ተገቢውን የቫት መጠን ያረጋግጡ።",
+          "አማራጭ የክፍያ፣ የአቅርቦት እና ሌሎች ውሎችን ይጻፉ ወይም ባዶ ይተዉ። ከመሣሪያው ጋር የተያያዘውን ማግበር ለማጠናቀቅ ያስቀምጡ።"
+        ],
+        "note": "ማግበሩ ካልተሳካ ያስገቡትን መረጃ ያቆዩና እንደገና ይሞክሩ። ለተመሳሳይ ጥያቄ እንደገና አይግዙ። የህጋዊ ማንነት ለውጥ እና የመሣሪያ ዝውውር የአስተዳዳሪ ፈቃድ ሊፈልጉ ይችላሉ።"
+      },
+      {
+        "title": "ደንበኛ ይጨምሩ እና ፕሮፎርማ ያዘጋጁ",
+        "image": "edit-items",
+        "steps": [
+          "ከሥራ ቦታዎ ወደ ደንበኞች ይግቡ። የደንበኛውን ስም እና ካስፈለገ የTIN ወይም የእውቂያ መረጃ ያስገቡ።",
+          "ተደጋጋሚ ዕቃዎችን ከመግለጫ፣ መለኪያ እና ዋጋ ጋር በካታሎግ ያስቀምጡ። ሰነዱን ሲያዘጋጁም በቀጥታ ማስገባት ይችላሉ።",
+          "ፕሮፎርማ ፍጠር ይምረጡ። ደንበኛውን ይምረጡ፣ ቀኖችን እና ምንዛሬን ያረጋግጡ። የዕቃ መግለጫ፣ ብዛት እና የአንዱን ዋጋ ይጨምሩ።",
+          "እንደ pcs፣ c/n፣ m፣ m²፣ kg ወይም g ያሉ መለኪያዎችን ይምረጡ። ቫትን እና የተሰላውን ድምር ያረጋግጡ። የገንዘብ መጠኖች በሺህ መለያ እና በሁለት የአስርዮሽ ቦታ ይታያሉ።",
+          "ወደ አማራጭ ማስታወሻዎች እና ውሎች ይውረዱ። ለዚህ ሰነድ ያስተካክሉ ወይም ያጽዱ። ረቂቁን ያስቀምጡና ከማውጣትዎ በፊት ይገምግሙ።"
+        ],
+        "note": "ቫት ሊቀየር የሚችል ግቤት ነው። የመነሻው መጠን የታክስ ምክር አይደለም። ደንበኞች፣ ዕቃዎች እና ሰነዶች እርስዎ ካላወጡዋቸው በስተቀር በስልኩ ላይ ይቀመጣሉ።"
+      },
+      {
+        "title": "PDF ያውጡ እና ያጋሩ",
+        "image": "preview-actions",
+        "steps": [
+          "የተቀመጠውን ረቂቅ በሰነድ ቅድመ እይታ ይክፈቱ። ድርጅቱን፣ ደንበኛውን፣ ዕቃዎችን፣ ቀኖችን፣ ምንዛሬን፣ ድምርን እና ውሎችን ያረጋግጡ።",
+          "PDF ከማውጣትዎ በፊት EN ወይም አማ ይምረጡ። መለያዎች እና በፊደል ያለው ድምር በዚያ ቋንቋ ይወጣሉ። እርስዎ የጻፉት ጽሑፍ በራሱ አይተረጎምም።",
+          "ዝግጁ ሲሆኑ ፕሮፎርማ አውጣ ይምረጡ። የመጨረሻ ቁጥር ይመደባል፣ ሰነዱም ለንባብ ብቻ ይሆናል።",
+          "የPDF ቅድመ እይታ፣ PDF አውጣ፣ PDF አጋራ ወይም PDF አትም ይጠቀሙ። በአንድሮይድ መስኮት የማስቀመጫ ቦታ፣ የመልዕክት መተግበሪያ ወይም አታሚ ይምረጡ።",
+          "የወጣውን ሰነድ እንደገና ለመጠቀም እንደ አዲስ ረቂቅ ቅዳ ይምረጡ። የቀድሞውን ታሪክ ከመቀየር ይልቅ አዲሱን ረቂቅ ያስተካክሉ።"
+        ],
+        "note": "PDFው አርማ፣ አማራጭ ማህተም እና እርስዎ የጻፉትን ውሎች ብቻ ይይዛል። ፕሮፎርማ ነው፤ የታክስ ደረሰኝ አይደለም። በዚህ ጥቅል ያሉ ናሙናዎች ልቦለድ መረጃ ይጠቀማሉ።"
+      },
+      {
+        "title": "ምትኬ ያውጡ እና ይመልሱ",
+        "image": "settings",
+        "steps": [
+          "ቅንብሮች እና ምትኬ ይክፈቱ። የንግድ መረጃ ምትኬ ማውጫን ይምረጡ።",
+          "የZIP ፋይሉን ከመተግበሪያው ውጭ በሚቆጣጠሩት ደህንነቱ የተጠበቀ ቦታ ያስቀምጡ። ፋይሉ መኖሩን ያረጋግጡ፤ ከአንድ በላይ ቅርብ ጊዜ የወጣ ቅጂ ያስቀምጡ።",
+          "ከማዘመን፣ ስልክ ከመቀየር፣ የመተግበሪያ መረጃ ከማጽዳት ወይም ከማራገፍ በፊት አዲስ ምትኬ ያውጡ።",
+          "ለመመለስ የምትኬ ZIP ይምረጡና መመሪያውን ይከተሉ። መመለስ ያለውን ሁሉንም የአካባቢ መረጃ ይተካል፤ ስለዚህ መጀመሪያ አዲስ ምትኬ ያውጡ። የRayz Proforma ምትኬ ብቻ ይጠቀሙ።",
+          "ምትኬው የንግድ መዝገቦችን እና እንደ ማህተም ያሉ የተደገፉ ምስሎችን ይይዛል። ፈቃድ አያዛውርም፣ ሌላ መሣሪያም አያገብርም። ለመሣሪያ መመለስ ወይም ዝውውር ድጋፍ ያግኙ።"
+        ],
+        "note": "ደረሰኞችዎ በራስ ሰር ከደመና ጋር አይመሳሰሉም። ምትኬዎች የድርጅት እና የደንበኛ መረጃ ስለሚይዙ በደህና ይጠብቋቸው።"
+      },
+      {
+        "title": "የመለያ የይለፍ ቃል ይቀይሩ",
+        "image": "password",
+        "steps": [
+          "ከኢንተርኔት ጋር ይገናኙ። ማግበሪያ / መለያ ይክፈቱና ካስፈለገ ይግቡ።",
+          "የይለፍ ቃል ቀይር ይምረጡ። አሁን ያለውን የይለፍ ቃል ያስገቡ።",
+          "ቢያንስ ስድስት አሃዝ ያለውን አዲስ የይለፍ ቃል ያስገቡ። በማረጋገጫው መስክ እንደገና ይጻፉት። እስከ 72 አሃዝ ያሉ ረዥም ቁጥሮችን ይደግፋል።",
+          "ያሳዩ ወይም ይደብቁ በማለት በግል ያረጋግጡ። ነጥቦቹ የጻፉትን ለመደበቅ ናቸው፤ የተቀመጠው የይለፍ ቃል ሃሽ አይታይም።",
+          "የይለፍ ቃል አዘምን ይምረጡ። ሲሳካ ሌሎች የመለያ ክፍለ ጊዜዎች ይወጣሉ፣ ያሉበት ግን ይቀጥላል። የአሁኑን ከረሱ ድጋፍ ያግኙ፤ የይለፍ ቃልዎን በመልዕክት አይላኩ።"
+        ],
+        "note": "የተለየና ለመገመት አስቸጋሪ የይለፍ ቃል ይጠቀሙ። አገልግሎቱ ካልተገኘ ግንኙነት ሲኖር እንደገና ይሞክሩ። የመለያ የይለፍ ቃል ለውጥ ኢንተርኔት ይፈልጋል።"
+      },
+      {
+        "title": "ያለ ኢንተርኔት መሥራት እና ድጋፍ",
+        "image": "home",
+        "steps": [
+          "ማግበሩ ከተሳካ በኋላ በተገበረው ስልክ ላይ ፕሮፎርማ ይፍጠሩ፣ ያስቀምጡ እና PDF ያውጡ።",
+          "የሁኔታ ማደስ አለመሳካት ብቻውን ትክክለኛውን የአካባቢ ፈቃድ አያስወግድም። መለያ፣ ክፍያ፣ የመጀመሪያ ማግበር እና ፈቃድ መመለስ ኢንተርኔት ይፈልጋሉ።",
+          "በምዝገባ ጊዜ ስህተት ከታየ ያስገቡትን መረጃ ያቆዩ፣ እንደገና ይሞክሩ እና ድጋሚ አይክፈሉ። ከቀጠለ የቴክኒክ ማጣቀሻ ቁጥሩን ይያዙ።",
+          "ለድጋፍ በ0911099246 ወይም 0947833314 ይደውሉ። የመተግበሪያውን ስሪት፣ የአንድሮይድ ስሪት፣ ያልተሳካውን ተግባር፣ ጊዜውን እና ሚስጥር የተደበቀበትን ማሳያ ያጋሩ።",
+          "ከማውረጃ ገጹ የተያያዙትን ይፋዊ የፌስቡክ፣ ቴሌግራም እና ዋትስአፕ ቻናሎች ይከተሉ። የይለፍ ቃል፣ የደረሰኝ መረጃ፣ የግል ቁልፍ ወይም የደንበኛ መረጃ በሕዝብ ፊት አይለጥፉ።"
+        ],
+        "note": "የመሣሪያ ዝውውር በተፈቀደለት ድጋፍ ብቻ ይደረግ። ምትኬዎ እና የመመለሻ እቅድዎ እስኪረጋገጥ ድረስ የቀድሞውን መተግበሪያ እና መረጃ ያቆዩ።"
+      }
+    ]
+  }
+}

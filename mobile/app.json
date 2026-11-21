@@ -1,0 +1,79 @@
+{
+  "expo": {
+    "name": "Rayz Proforma",
+    "slug": "proforma-studio",
+    "version": "2.0.9",
+    "scheme": "proformastudio",
+    "icon": "./assets/icon.png",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.proformastudio.app",
+      "versionCode": 12,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-foreground.png",
+        "backgroundColor": "#071E2F"
+      }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Choose a company logo.",
+          "cameraPermission": false,
+          "microphonePermission": false
+        }
+      ],
+      [
+        "expo-font",
+        {
+          "android": {
+            "fonts": [
+              {
+                "fontFamily": "AppSans",
+                "fontDefinitions": [
+                  {
+                    "path": "./assets/fonts/Inter_400Regular.ttf",
+                    "weight": 400
+                  },
+                  {
+                    "path": "./assets/fonts/Inter_600SemiBold.ttf",
+                    "weight": 600
+                  }
+                ]
+              },
+              {
+                "fontFamily": "AppEthiopic",
+                "fontDefinitions": [
+                  {
+                    "path": "./assets/fonts/NotoSansEthiopic_400Regular.ttf",
+                    "weight": 400
+                  },
+                  {
+                    "path": "./assets/fonts/NotoSansEthiopic_600SemiBold.ttf",
+                    "weight": 600
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "expo-asset",
+      "expo-secure-store",
+      "./plugins/no-cloud-backup"
+    ],
+    "experiments": {
+      "typedRoutes": false
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "fa85ff10-d8c6-4405-82a4-e846f8aba095"
+      }
+    },
+    "owner": "abatethomas1"
+  }
+}
